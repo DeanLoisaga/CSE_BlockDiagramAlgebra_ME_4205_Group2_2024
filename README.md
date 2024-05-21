@@ -7,6 +7,8 @@ This is a final project.
 
 
 2. Baes_Ragusante_Block_Diagram_Algebra - Number 1 (Reduced)
+![reduced block diagram ](https://github.com/eunragusante/CSE_BlockDiagramAlgebra_ME_4205_Group2_2024/assets/159035507/c89f635f-0676-4de3-9556-240e693948cc)
+![reduced block diagram simulink graph](https://github.com/eunragusante/CSE_BlockDiagramAlgebra_ME_4205_Group2_2024/assets/159035507/9b2fe806-8266-4e3b-ab43-d9aeeee28336)
 
 3. Block Diagram Algebra - Number 2 (Original)
 

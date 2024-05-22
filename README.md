@@ -21,3 +21,10 @@ Block Diagram Reduction Computation for Number 1
 3. Block Diagram Algebra - Number 2 (Original)
 
 4. Block Diagram Algebra - Number 2 (Reduced)
+
+
+   Block Diagram Reduction Computation for Number 2
+   ![Block Diagram Computaion For Number 2 (1)](https://github.com/DeanLoisaga/CSE_BlockDiagramAlgebra_ME_4205_Group2_2024/assets/159403287/f8e1039b-6a40-427c-a3ff-4c9d3e9985af)
+![Block Diagram Computaion For Number 2 (2)](https://github.com/DeanLoisaga/CSE_BlockDiagramAlgebra_ME_4205_Group2_2024/assets/159403287/225b1196-a4c9-4dd1-a654-33f381437104)
+![Block Diagram Computaion For Number 2 (3)](https://github.com/DeanLoisaga/CSE_BlockDiagramAlgebra_ME_4205_Group2_2024/assets/159403287/d8daaba7-d94e-458c-88ae-d985e795597a)
+
